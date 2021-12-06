@@ -1,0 +1,46 @@
+{
+"products":[
+  {
+    "id":"1",
+    "title":"Realme 8",
+    "description":"6GB RAM 128GB ROM",
+    "price":"14999/-",
+    "rating":"4.3"
+  },
+  {
+    "id":"2",
+    "title":"Redmi Note 10",
+    "description":"6GB RAM 128GB ROM",
+    "price":"13999/-",
+    "rating":"4.3"
+  },
+  {
+    "id":"3",
+    "title":"Realme 8i",
+    "description":"6GB RAM 128GB ROM",
+    "price":"15999/-",
+    "rating":"4.2"
+  },
+  {
+    "id":"4",
+    "title":"Samsung M52",
+    "description":"4GB RAM 128GB ROM",
+    "price":"13999/-",
+    "rating":"4.4"
+  },
+  {
+    "id":"5",
+    "title":"Vivo y13",
+    "description":"6GB RAM 128GB ROM",
+    "price":"19999/-",
+    "rating":"4.3"
+  },
+  {
+    "id":"6",
+    "title":"Norzo 30 pro",
+    "description":"6GB RAM 128GB ROM",
+    "price":"17999/-",
+    "rating":"4.1"
+  }
+]
+}
